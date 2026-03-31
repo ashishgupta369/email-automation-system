@@ -10,7 +10,7 @@ Automated email sending system using Google Apps Script and Google Sheets.
 
 ## Workflow
 Google Sheet → Apps Script → Gmail → Status Update
-<img src='docs/email-automation.png'
+<img src='docs/email-automation.png.png'>
 
 ## Setup
 1. Upload sheet to Google Sheets
